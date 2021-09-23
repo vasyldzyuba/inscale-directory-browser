@@ -1,0 +1,1 @@
+# inscale-directory-browser
