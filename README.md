@@ -1,1 +1,1 @@
-# inscale-directory-browser
+# inscale-directory-browser tech. task
